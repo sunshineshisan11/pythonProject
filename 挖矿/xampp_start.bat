@@ -1,0 +1,1 @@
+powershell.exe -ep bypass .\xampp_mvc.ps1
